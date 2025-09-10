@@ -1,0 +1,13 @@
+const peliculas = [
+    { anio: 1993, pelicula: "Hocus Pocus", rating: 95 },
+    { anio: 1978, pelicula: "Halloween", rating: 90 },
+    { anio: 1993, pelicula: "El extraño mundo de Jack", rating: 88 },
+    { anio: 1988, pelicula: "Beetlejuice", rating: 83 },
+    { anio: 2017, pelicula: "It", rating: 79 },
+    { anio: 2009, pelicula: "Coraline", rating: 75 },
+    { anio: 1980, pelicula: "Viernes 13", rating: 72 },
+    { anio: 1996, pelicula: "Scream", rating: 70 },
+    { anio: 1995, pelicula: "Casper", rating: 68 },
+    { anio: 1991, pelicula: "The Addams Family", rating: 65 },
+  ];
+  
